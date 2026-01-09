@@ -1,0 +1,21 @@
+# Android
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+*.class
+*.hprof
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.db
+
+# IDE
+.vscode/
+
+# Zip files
+*.zip
