@@ -1,21 +1,39 @@
-# Android
+# Android Build Files
 .gradle/
 build/
-local.properties
 *.iml
-.idea/
+local.properties
 *.class
 *.hprof
+*.apk
+*.aab
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
 
 # Python
 __pycache__/
 *.py[cod]
+*$py.class
 venv/
+env/
 .env
 *.db
+*.sqlite3
+.Python
 
 # IDE
 .vscode/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
 
 # Zip files
 *.zip
+
+# Logs
+*.log

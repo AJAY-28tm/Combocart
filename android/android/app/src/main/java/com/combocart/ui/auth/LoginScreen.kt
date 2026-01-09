@@ -259,6 +259,16 @@ fun LoginScreen(
             
             Spacer(modifier = Modifier.weight(1f))
             
+            // Powered by SIMATS
+            Text(
+                "Powered by SIMATS",
+                fontSize = 16.sp,
+                fontWeight = FontWeight.Bold,
+                color = Color.Black,
+                textAlign = TextAlign.Center,
+                modifier = Modifier.padding(bottom = 8.dp)
+            )
+            
             // Terms and Privacy
             Text(
                 "By continuing, you agree to our Terms of Service\nand Privacy Policy",

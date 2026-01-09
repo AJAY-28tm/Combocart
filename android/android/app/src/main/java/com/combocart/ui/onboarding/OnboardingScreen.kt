@@ -27,12 +27,16 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
+import com.combocart.R
 import com.combocart.ui.navigation.Screen
 import com.combocart.ui.theme.DarkGray
 import com.combocart.ui.theme.MediumGray
@@ -108,15 +112,17 @@ fun OnboardingPage(page: Int) {
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        // Placeholder for Image
-        Box(
+        // Onboarding Images
+        Image(
+            painter = painterResource(
+                id = if (page == 0) R.drawable.splash_1 else R.drawable.splash_2
+            ),
+            contentDescription = if (page == 0) "Complete Meal Kits" else "Fast Delivery",
             modifier = Modifier
                 .size(250.dp)
-                .background(Color.LightGray, RoundedCornerShape(12.dp)),
-            contentAlignment = Alignment.Center
-        ) {
-            Text("Image ${page + 1}")
-        }
+                .clip(RoundedCornerShape(12.dp)),
+            contentScale = ContentScale.Crop
+        )
         
         Spacer(modifier = Modifier.height(32.dp))
 
