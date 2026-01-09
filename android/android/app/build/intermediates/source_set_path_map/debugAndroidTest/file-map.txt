@@ -1,0 +1,35 @@
+com.combocart.test.app-jetified-core-1.5.0-0 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\017e72297b3b3d522e04d25a2a96173e\transformed\jetified-core-1.5.0\res
+com.combocart.test.app-jetified-ui-text-release-1 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\020232d02a55d516bc58219767c5efc0\transformed\jetified-ui-text-release\res
+com.combocart.test.app-jetified-core-ktx-1.12.0-2 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\022257048562d119a22e1385c488b28e\transformed\jetified-core-ktx-1.12.0\res
+com.combocart.test.app-jetified-activity-compose-1.8.2-3 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\0385689b9ed2c168c25b1baedc8033c1\transformed\jetified-activity-compose-1.8.2\res
+com.combocart.test.app-jetified-savedstate-1.2.1-4 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\03dfee1b7b6ffe4dff0ec5dd4da32a68\transformed\jetified-savedstate-1.2.1\res
+com.combocart.test.app-jetified-activity-1.8.2-5 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\22faed40b1c0a930d1f9d016e8d3b2a6\transformed\jetified-activity-1.8.2\res
+com.combocart.test.app-jetified-ui-graphics-release-6 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\26b7d81c48713d1f158edb3e1c95172f\transformed\jetified-ui-graphics-release\res
+com.combocart.test.app-jetified-ui-test-release-7 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\38de1b4fe13736ea2c9a9267f0ef0678\transformed\jetified-ui-test-release\res
+com.combocart.test.app-lifecycle-viewmodel-2.7.0-8 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\3ba5cdde0fb6e6e3ed92793418377e8f\transformed\lifecycle-viewmodel-2.7.0\res
+com.combocart.test.app-jetified-activity-ktx-1.8.2-9 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\3d2067128a1bac6f4bbfe6c53a1a3c5c\transformed\jetified-activity-ktx-1.8.2\res
+com.combocart.test.app-core-runtime-2.2.0-10 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\3fc38fbcd97b035f3ee77fd4648bf4bc\transformed\core-runtime-2.2.0\res
+com.combocart.test.app-lifecycle-runtime-2.7.0-11 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\4e82baacc25ae203f050c5d2dbac7177\transformed\lifecycle-runtime-2.7.0\res
+com.combocart.test.app-jetified-runtime-release-12 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\6280ff86426930ce0fa1f8d9ad113545\transformed\jetified-runtime-release\res
+com.combocart.test.app-jetified-startup-runtime-1.1.1-13 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\66565f80489ad09bfb89011a2438eb5e\transformed\jetified-startup-runtime-1.1.1\res
+com.combocart.test.app-core-1.12.0-14 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\66da1816dd1f766270d500f69e5b6573\transformed\core-1.12.0\res
+com.combocart.test.app-jetified-runtime-saveable-release-15 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\79b36e37232123b7f29088aa401162dd\transformed\jetified-runtime-saveable-release\res
+com.combocart.test.app-jetified-savedstate-ktx-1.2.1-16 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\8750af0c6c87c3becd60e059374afeec\transformed\jetified-savedstate-ktx-1.2.1\res
+com.combocart.test.app-jetified-customview-poolingcontainer-1.0.0-17 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\8ba7aa849f41fe193474b6cf0166ba2f\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.combocart.test.app-jetified-emoji2-1.4.0-18 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\910f417a2325472fd17ccf655c1e4c37\transformed\jetified-emoji2-1.4.0\res
+com.combocart.test.app-jetified-ui-test-junit4-release-19 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\9411fcb51742763b61fec5aaa4b47e8c\transformed\jetified-ui-test-junit4-release\res
+com.combocart.test.app-lifecycle-livedata-core-2.7.0-20 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\9be2f10c2f88d1544ff03bcb63ab6b16\transformed\lifecycle-livedata-core-2.7.0\res
+com.combocart.test.app-jetified-annotation-experimental-1.3.1-21 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\a38641a4bd601c7946e0ce4bfe80ef3b\transformed\jetified-annotation-experimental-1.3.1\res
+com.combocart.test.app-jetified-ui-util-release-22 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\bd650f96a93ab421813441da8cd8eedd\transformed\jetified-ui-util-release\res
+com.combocart.test.app-jetified-lifecycle-process-2.7.0-23 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\cd364b444f997eba2b65b11ae7129c25\transformed\jetified-lifecycle-process-2.7.0\res
+com.combocart.test.app-jetified-profileinstaller-1.3.1-24 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\dd62bae077acf3f954fc20d794583d3d\transformed\jetified-profileinstaller-1.3.1\res
+com.combocart.test.app-jetified-ui-release-25 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\e3ad648c973a42d89fe0fc0ca3da179b\transformed\jetified-ui-release\res
+com.combocart.test.app-jetified-ui-unit-release-26 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\e70aba662cc0795a2ebf20e7e6164bed\transformed\jetified-ui-unit-release\res
+com.combocart.test.app-jetified-ui-geometry-release-27 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\e7c06fa02d0403b915e17641c5cf05e0\transformed\jetified-ui-geometry-release\res
+com.combocart.test.app-jetified-lifecycle-viewmodel-ktx-2.7.0-28 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\e7c853172cf3074b903f7052c79da313\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.combocart.test.app-jetified-lifecycle-runtime-ktx-2.7.0-29 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\e99fe4346b17e9c4cd2559da8f80b43a\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.combocart.test.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-30 C:\Users\mleov\.gradle\caches\9.0-milestone-1\transforms\f8b954d4110f32cbcb8b59be71ff187d\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.combocart.test.app-androidTest-31 C:\Users\mleov\OneDrive\Desktop\Freelance Proj\combocart\android\app\build\generated\res\resValues\androidTest\debug
+com.combocart.test.app-mergeDebugAndroidTestResources-32 C:\Users\mleov\OneDrive\Desktop\Freelance Proj\combocart\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.combocart.test.app-mergeDebugAndroidTestResources-33 C:\Users\mleov\OneDrive\Desktop\Freelance Proj\combocart\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.combocart.test.app-merged_res-34 C:\Users\mleov\OneDrive\Desktop\Freelance Proj\combocart\android\app\build\intermediates\merged_res\debugAndroidTest

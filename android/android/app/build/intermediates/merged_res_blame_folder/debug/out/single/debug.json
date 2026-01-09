@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_loaded_fries.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/loaded_fries.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_paneer_tikka_masala_img3.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/paneer_tikka_masala_img3.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_french_fries.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/french_fries.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_momos.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/momos.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/xml_backup_rules.xml.flat",
+        "source": "com.combocart.app-main-81:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_rasam_rice.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/rasam_rice.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_pasta_carbonara_kit_img4.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/pasta_carbonara_kit_img4.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_fried_rice.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/fried_rice.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_biriyani_combo_img5.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/biriyani_combo_img5.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_comfort_food.png.flat",
+        "source": "com.combocart.app-main-81:/drawable/comfort_food.png"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_masala_tea.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/masala_tea.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.combocart.app-main-81:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_chocolate_lava_cake.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/chocolate_lava_cake.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_margherita_pizza_kit_img7.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/margherita_pizza_kit_img7.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_sambar_rice.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/sambar_rice.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_kadai_paneer.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/kadai_paneer.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_instant_pasta.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/instant_pasta.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_butter_chicken_combo_img2.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/butter_chicken_combo_img2.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_samosa.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/samosa.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_dal_chawal.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/dal_chawal.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_pizza.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/pizza.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_curd_rice.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/curd_rice.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/xml_data_extraction_rules.xml.flat",
+        "source": "com.combocart.app-main-81:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_bajji.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/bajji.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_parotta.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/parotta.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_hot_chocolate.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/hot_chocolate.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_data_night.png.flat",
+        "source": "com.combocart.app-main-81:/drawable/data_night.png"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_fried_chicken.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/fried_chicken.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_vada_pav.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/vada_pav.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_spicy_chicken_curry_img1.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/spicy_chicken_curry_img1.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_quick_meals.png.flat",
+        "source": "com.combocart.app-main-81:/drawable/quick_meals.png"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.combocart.app-main-81:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_rainy_day.png.flat",
+        "source": "com.combocart.app-main-81:/drawable/rainy_day.png"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_egg_rice.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/egg_rice.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_pad_thai_kit_img6.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/pad_thai_kit_img6.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_upma.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/upma.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_maggi.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/maggi.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_shawarma.jpg.flat",
+        "source": "com.combocart.app-main-81:/drawable/shawarma.jpg"
+    },
+    {
+        "merged": "com.combocart.app-merged_res-79:/drawable_late_night.png.flat",
+        "source": "com.combocart.app-main-81:/drawable/late_night.png"
+    }
+]
